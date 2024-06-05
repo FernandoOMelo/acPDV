@@ -11,20 +11,16 @@ object FramePix: TFramePix
     Height = 514
     Align = alClient
     BevelOuter = bvNone
-    Padding.Left = 100
-    Padding.Top = 70
-    Padding.Right = 100
-    Padding.Bottom = 70
+    Padding.Left = 120
+    Padding.Top = 20
+    Padding.Right = 120
+    Padding.Bottom = 20
     TabOrder = 0
-    ExplicitLeft = 336
-    ExplicitTop = 328
-    ExplicitWidth = 185
-    ExplicitHeight = 41
     object imgPix: TImage
-      Left = 100
-      Top = 70
-      Width = 410
-      Height = 374
+      Left = 120
+      Top = 20
+      Width = 370
+      Height = 474
       Align = alClient
       Picture.Data = {
         0954506E67496D61676589504E470D0A1A0A0000000D49484452000003C90000
