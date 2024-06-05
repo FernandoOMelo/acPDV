@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/23 17:50:58.000.764,=C:\Users\Fernando Melo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 12:16:14.000.182,=C:\Users\Fernando Melo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/17 17:53:53.000.633,=C:\Users\Fernando Melo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/17 17:56:03.000.510,C:\Users\Fernando Melo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.principal.pas</Transaction>
+    <Transaction>2024/05/17 17:56:03.000.510,C:\Users\Fernando Melo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.principal.dfm</Transaction>
+    <Transaction>2024/05/17 17:56:38.000.920,C:\Users\Fernando Melo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Fontes\Cursos\Delphi\ACPDV\acPDV.dproj</Transaction>
+    <Transaction>2024/05/17 19:03:55.000.558,=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/17 19:04:40.000.317,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.dfm=C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.login.dfm</Transaction>
+    <Transaction>2024/05/17 19:04:40.000.317,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas=C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.login.pas</Transaction>
+    <Transaction>2024/05/20 21:15:32.000.019,=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/20 21:26:49.000.006,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.dfm=C:\Fontes\Cursos\Delphi\ACPDV\src\View\Componente\acpdv.view.componente.transparencia.dfm</Transaction>
+    <Transaction>2024/05/20 21:26:49.000.006,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas=C:\Fontes\Cursos\Delphi\ACPDV\src\View\Componente\acpdv.view.componente.transparencia.pas</Transaction>
+    <Transaction>2024/05/20 22:14:00.000.070,=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/20 22:14:52.000.700,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas=C:\Fontes\Cursos\Delphi\ACPDV\src\Model\acpdv.model.dados.pas</Transaction>
+    <Transaction>2024/05/20 22:14:52.000.700,C:\Fontes\Cursos\Delphi\ACPDV\Unit1.dfm=C:\Fontes\Cursos\Delphi\ACPDV\src\Model\acpdv.model.dados.dfm</Transaction>
+    <Transaction>2024/05/21 20:33:42.000.224,=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/21 20:34:03.000.469,C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.pagamentos.dfm=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.dfm</Transaction>
+    <Transaction>2024/05/21 20:34:03.000.469,C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.pagamentos.pas=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/28 18:37:34.202,=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/28 18:40:21.910,C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.pix.pas=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.pas</Transaction>
+    <Transaction>2024/05/28 18:40:21.910,C:\Fontes\Cursos\Delphi\ACPDV\src\View\acpdv.view.page.pix.dfm=C:\Fontes\Cursos\Delphi\ACPDV\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
